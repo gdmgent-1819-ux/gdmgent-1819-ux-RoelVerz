@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Oswald|Signika|Roboto&display=swap');
+
+.sg-title {
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: #333;
+    margin: 1rem 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.sg-subtitle {
+    font-size: 1rem;
+    border-bottom: solid 1px #aaa;
+    font-weight: 400;
+    color: #666;
+    text-transform: uppercase;
+    margin: 2rem 0 .5rem 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+h3{
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: #666;
+    margin: 1rem 0 .5rem 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.col1{
+    color: white;
+    background-color: #5DDAB0;
+    padding: 3px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.col2{
+    color: white;
+    background-color: #909090;
+    padding: 3px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.col3{
+    color: white;
+    background-color: #BDBDBD;
+    padding: 3px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.col4{
+    color: white;
+    background-color: #5E5E5E;
+    padding: 3px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.font1{
+    font-family: 'Arimo';
+}
+
+.font2{
+    font-family: 'Roboto';
+}
+
+.font3{
+    font-family: 'Raleway', sans-serif;
+}
+
+.button {
+    background-color: #5DDAB0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    width: 570px;
+    border-radius: 8px;
+}
+
+.container-header {
+    padding: 2vh;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+}
+
+.logo {
+    color: #5DDAB0;
+    font-family: "Arimo";
+    font-weight: 1000;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px #909090;
+}
+
+.logocamp {
+    position: relative;
+    left: 85px;
+    top: -15px;
+}
+
+.pages {
+    padding-left: 100px;
+}
+
+nav li {
+    display: inline-block;
+    font-family: 'Arimo';
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    padding: 20px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 4px;
+}
+
+.search {
+    color: #909090;
+}
+
+nav a:hover {
+    padding-bottom: 8px;
+    border-bottom: 3px solid #5DDAB0;
+}
+
+.home {
+    color: #5DDAB0;
+}
+
+#activate {
+    padding-bottom: 7px;
+    border-bottom: 3px solid #5DDAB0;
+}
